@@ -1,0 +1,9 @@
+krok 50
+opakuj 4
+krok 100
+vpravo 90
+opakuj 4
+krok 50
+vlavo 90
+koniec
+koniec
